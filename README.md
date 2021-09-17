@@ -32,7 +32,7 @@ For our initial base solution, we try starting at every possible depot(start poi
 ## Screenshots
 | Easy To Use Interface |
 | ------------- |
-| ![Main Screen](/images/map.png)  |
+| ![Main Screen](/img/interface.png)  |
 
 | Zoom Levels| 
 | ------------- |
@@ -42,15 +42,24 @@ For our initial base solution, we try starting at every possible depot(start poi
 | ------------- |
 | ![Dark Mode](/img/DarkMode.gif)  |
 
-
-| Dark Mode  |
+| Responsive Path-Finding |
 | ------------- |
 |![Colour Blind Mode](/images/colorMap.png) |
 
-| Path-Finding  | Search |
-| ------------- | ------------- |
-| ![Path Finding](/images/Navigation.png)  | ![Search](/images/search.gif) |
+| Easy To Follow Directions |
+| ------------- |
+| ![Subways](/images/subwayDisplay.png)  |
 
-| Subways  | Points of Interest |
-| ------------- | ------------- |
-| ![Subways](/images/subwayDisplay.png)  | ![Points of Interest](/images/POI.gif) |
+| Public Transit Routes  |
+| ------------- |
+| ![Path Finding](/images/Navigation.png)  |
+
+| Dynamic Buttons  |
+| ------------- |
+|![Search](/images/search.gif) |
+
+| Tutorial Integration |
+| ------------- |
+| ![Subways](/images/subwayDisplay.png)  |
+
+
