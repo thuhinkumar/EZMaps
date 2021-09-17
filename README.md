@@ -62,5 +62,7 @@ Our map implements the A* search algorithm to search for the shortest path betwe
 ### Traveling Salesman/Courier Problem - NP Hard Problem
 Given a set of dropoff/pickup points, and a set of start/end intersections, our algorithm attempts to find the optimal path that reaches all the intersections in the appropriate order. Since this type of problem is an example of an NP-Hard problem, and no optimal solutions exist our algorithm finds a base solution then continues to make improvements until we end up with a relatively optimal path within a 50 second time limit.
 
-For our initial base solution, we try starting at every possible depot(start point) and use a greedy algorithm to always travel to the next closest pickup or dropoff point from the current location. Then, using the best base solution, we try swapping the order of four random intersections continuously to look for a more optimal path for a maximum time of 50 seconds. We implemented simulated annealing and 2-opts along with multithreading to improve performance. The final solution performed better than 83% of the others.
+For our initial base solution, we try starting at every possible depot(start point) and use a greedy algorithm to always travel to the next closest pickup or dropoff point from the current location. Then, using the best base solution, we try swapping the order of four random intersections continuously to look for a more optimal path for a maximum time of 50 seconds. 
+
+We implemented simulated annealing and 2-opts along with multithreading to improve performance. The final solution performed better than 83% of the others.
 
