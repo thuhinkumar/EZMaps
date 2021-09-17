@@ -30,13 +30,22 @@ Given a set of dropoff/pickup points, and a set of start/end intersections, our 
 For our initial base solution, we try starting at every possible depot(start point) and use a greedy algorithm to always travel to the next closest pickup or dropoff point from the current location. Then, using the best base solution, we try swapping the order of four random intersections continuously to look for a more optimal path for a maximum time of 50 seconds.
 
 ## Screenshots
-| Main Screen  | Zoom-Levels |
-| ------------- | ------------- |
-| ![Main Screen](/images/map.png)  | ![Zoom Levels](/images/zoom_levels.gif) |
+| Easy To Use Interface |
+| ------------- |
+| ![Main Screen](/images/map.png)  |
 
-| Dark Mode  | Colour Blind Mode |
-| ------------- | ------------- |
-| ![Dark Mode](/img/DarkMode.gif)  | ![Colour Blind Mode](/images/colorMap.png) |
+| Zoom Levels| 
+| ------------- |
+![Zoom Levels](/images/zoom_levels.gif) |
+
+| Dark Mode  |
+| ------------- |
+| ![Dark Mode](/img/DarkMode.gif)  |
+
+
+| Dark Mode  |
+| ------------- |
+|![Colour Blind Mode](/images/colorMap.png) |
 
 | Path-Finding  | Search |
 | ------------- | ------------- |
