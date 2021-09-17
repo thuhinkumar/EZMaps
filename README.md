@@ -7,16 +7,16 @@ NOTE: This project was made for the course ECE297 at the University of Toronto, 
 
 ## Main Features
 * Use buttons to move around and zoom in/out
-* Dropdown menu to select maps for different cities
+* Dynamic Buttons that change as the users interact with the interface
+* Menu interafce to select maps for different cities
 * Display streets, street names, parks, rivers, lakes, buildings, points of interests, etc...
 * Display subway stations
-* Click POI's or intersections to view more information
+* Display public transit routes
 * Search bar to search up intersections
 * Find optimal path between two intersections
 * Display easy-to-follow driving instructions to get from one point to another
 * Dark Mode
-* Colour Blind Support
-* Help Box
+* Tutorial Integration
 
 ## Algorithms
 ### Setting up a Graph data structure
@@ -48,7 +48,7 @@ For our initial base solution, we try starting at every possible depot(start poi
 
 | Easy To Follow Directions |
 | ------------- |
-| ![Subways](/img/Directions.png)  |
+| ![Subways](/img/subwayDisplay.png)  |
 
 | Public Transit Routes  |
 | ------------- |
