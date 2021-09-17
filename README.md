@@ -42,12 +42,6 @@ For our initial base solution, we try starting at every possible depot(start poi
 | ------------- |
 | ![Dark Mode](/img/DarkMode.gif)  |
 
-| Dark Mode  |
-| ------------- |
-| <p align="center">
-    <img src="/img/DarkMode.gif" alt="animated" />
-  </p>  |
-
 | Responsive Path-Finding |
 | ------------- |
 |![Colour Blind Mode](/img/PathFinding.gif) |
