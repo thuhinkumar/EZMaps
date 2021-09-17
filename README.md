@@ -36,7 +36,7 @@ For our initial base solution, we try starting at every possible depot(start poi
 
 | Zoom Levels| 
 | ------------- |
-![Zoom Levels](/images/zoom_levels.gif) |
+![Zoom Levels](/img/zoom_levels.gif) |
 
 | Dark Mode  |
 | ------------- |
@@ -44,22 +44,22 @@ For our initial base solution, we try starting at every possible depot(start poi
 
 | Responsive Path-Finding |
 | ------------- |
-|![Colour Blind Mode](/images/PathFinding.gif) |
+|![Colour Blind Mode](/img/PathFinding.gif) |
 
 | Easy To Follow Directions |
 | ------------- |
-| ![Subways](/images/subwayDisplay.png)  |
+| ![Subways](/img/subwayDisplay.png)  |
 
 | Public Transit Routes  |
 | ------------- |
-| ![Path Finding](/images/PublicTransit.gif)  |
+| ![Path Finding](/img/PublicTransit.gif)  |
 
 | Dynamic Buttons  |
 | ------------- |
-|![Search](/images/DynamicButtons.gif) |
+|![Search](/img/DynamicButtons.gif) |
 
 | Tutorial Integration |
 | ------------- |
-| ![Subways](/images/TutorialIntegration.gif)  |
+| ![Subways](/img/TutorialIntegration.gif)  |
 
 
