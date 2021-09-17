@@ -1,8 +1,8 @@
 
 ![Banner](/images/logo.jpg)
-# UMap
+# EZMap
 <!--![Language Stats](/images/languageStats.png)<br/>-->
-UMap is a user-friendly map application that shows important information for different cities around the world. Written using C++, retrieves data using the OpenStreetMap Database API, and draws graphics using GTK.<br/>
+EZMap is a user-friendly map application that shows important information for different cities around the world. Written using C++, retrieves data using the OpenStreetMap Database API, and draws graphics using GTK.<br/>
 
 NOTE: This project was made for the course ECE297 at the University of Toronto, and therefore, the source code is not available to the public.
 
@@ -31,15 +31,15 @@ Given a set of dropoff/pickup points, and a set of start/end intersections, our 
 For our initial base solution, we try starting at every possible depot(start point) and use a greedy algorithm to always travel to the next closest pickup or dropoff point from the current location. Then, using the best base solution, we try swapping the order of four random intersections continuously to look for a more optimal path for a maximum time of 50 seconds.
 
 ## Screenshots
-| Main Screen  | Zoom-Levels |
+| Easy to use Interface  | Zoom-Levels |
 | ------------- | ------------- |
 | ![Main Screen](/images/map.png)  | ![Zoom Levels](/images/zoom_levels.gif) |
 
 | Dark Mode  | Colour Blind Mode |
 | ------------- | ------------- |
-| ![Dark Mode](/images/nightmode.png)  | ![Colour Blind Mode](/images/colorMap.png) |
+| ![Dark Mode](/img/DarkMode.gif)  | ![Colour Blind Mode](/images/colorMap.png) |
 
-| Path-Finding  | Search |
+| Path-Finding  | Public Transit |
 | ------------- | ------------- |
 | ![Path Finding](/images/Navigation.png)  | ![Search](/images/search.gif) |
 
