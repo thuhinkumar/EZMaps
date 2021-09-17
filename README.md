@@ -17,6 +17,7 @@ NOTE: This project was made for the course ECE297 at the University of Toronto, 
 * Display easy-to-follow driving instructions to get from one point to another
 * Dark Mode
 * Tutorial Integration
+* Display notable points of interest such as restaurants, schools, hospitals, coffee shops, stores, and many more
 
 ## Visuals
 | Easy To Use Interface |
