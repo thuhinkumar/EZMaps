@@ -1,5 +1,4 @@
 
-![Banner](/images/logo.jpg)
 # EZMap
 <!--![Language Stats](/images/languageStats.png)<br/>-->
 EZMap is a user-friendly map application that shows important information for different cities around the world. Written using C++, retrieves data using the OpenStreetMap Database API, and draws graphics using GTK.<br/>
@@ -31,15 +30,15 @@ Given a set of dropoff/pickup points, and a set of start/end intersections, our 
 For our initial base solution, we try starting at every possible depot(start point) and use a greedy algorithm to always travel to the next closest pickup or dropoff point from the current location. Then, using the best base solution, we try swapping the order of four random intersections continuously to look for a more optimal path for a maximum time of 50 seconds.
 
 ## Screenshots
-| Easy to use Interface  | Zoom-Levels |
+| Main Screen  | Zoom-Levels |
 | ------------- | ------------- |
 | ![Main Screen](/images/map.png)  | ![Zoom Levels](/images/zoom_levels.gif) |
 
 | Dark Mode  | Colour Blind Mode |
 | ------------- | ------------- |
-| ![Dark Mode](/img/DarkMode.gif)  | ![Colour Blind Mode](/images/colorMap.png) |
+| ![Dark Mode](/images/nightmode.png)  | ![Colour Blind Mode](/images/colorMap.png) |
 
-| Path-Finding  | Public Transit |
+| Path-Finding  | Search |
 | ------------- | ------------- |
 | ![Path Finding](/images/Navigation.png)  | ![Search](/images/search.gif) |
 
