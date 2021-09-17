@@ -44,7 +44,7 @@ For our initial base solution, we try starting at every possible depot(start poi
 
 | Responsive Path-Finding |
 | ------------- |
-|![Colour Blind Mode](/images/colorMap.png) |
+|![Colour Blind Mode](/images/PathFinding.gif) |
 
 | Easy To Follow Directions |
 | ------------- |
@@ -52,14 +52,14 @@ For our initial base solution, we try starting at every possible depot(start poi
 
 | Public Transit Routes  |
 | ------------- |
-| ![Path Finding](/images/Navigation.png)  |
+| ![Path Finding](/images/PublicTransit.gif)  |
 
 | Dynamic Buttons  |
 | ------------- |
-|![Search](/images/search.gif) |
+|![Search](/images/DynamicButtons.gif) |
 
 | Tutorial Integration |
 | ------------- |
-| ![Subways](/images/subwayDisplay.png)  |
+| ![Subways](/images/TutorialIntegration.gif)  |
 
 
