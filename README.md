@@ -36,7 +36,7 @@ For our initial base solution, we try starting at every possible depot(start poi
 
 | Zoom Levels| 
 | ------------- |
-![Zoom Levels](/img/zoom_levels.gif) |
+![Zoom Levels](/img/zoomlevels.gif) |
 
 | Dark Mode  |
 | ------------- |
