@@ -36,7 +36,7 @@ For our initial base solution, we try starting at every possible depot(start poi
 
 | Dark Mode  | Colour Blind Mode |
 | ------------- | ------------- |
-| ![Dark Mode](/img/DarkMode.png)  | ![Colour Blind Mode](/images/colorMap.png) |
+| ![Dark Mode](/img/DarkMode.gif)  | ![Colour Blind Mode](/images/colorMap.png) |
 
 | Path-Finding  | Search |
 | ------------- | ------------- |
