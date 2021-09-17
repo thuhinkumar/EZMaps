@@ -48,7 +48,7 @@ For our initial base solution, we try starting at every possible depot(start poi
 
 | Easy To Follow Directions |
 | ------------- |
-| ![Subways](/img/subwayDisplay.png)  |
+| ![Subways](/img/Directions.png)  |
 
 | Public Transit Routes  |
 | ------------- |
