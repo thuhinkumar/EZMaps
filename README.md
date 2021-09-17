@@ -64,5 +64,5 @@ Given a set of dropoff/pickup points, and a set of start/end intersections, our 
 
 For our initial base solution, we try starting at every possible depot(start point) and use a greedy algorithm to always travel to the next closest pickup or dropoff point from the current location. Then, using the best base solution, we try swapping the order of four random intersections continuously to look for a more optimal path for a maximum time of 50 seconds. 
 
-**We implemented simulated annealing and 2-opts along with multithreading to improve performance. The final solution performed better than 83% of the others.**
+***We implemented simulated annealing and 2-opts along with multithreading to improve performance. The final solution performed better than 83% of the others.***
 
