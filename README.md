@@ -32,7 +32,7 @@ For our initial base solution, we try starting at every possible depot(start poi
 ## Screenshots
 | Easy To Use Interface |
 | ------------- |
-| ![Main Screen](/img/interface.png)  |
+| ![Main Screen](/img/Interface.png)  |
 
 | Zoom Levels| 
 | ------------- |
